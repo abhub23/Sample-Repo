@@ -1,3 +1,2 @@
 ## Sample-Repo
-- This is a Demo Repository.
-Hshhshs
+- This is a Demo Repository. 
