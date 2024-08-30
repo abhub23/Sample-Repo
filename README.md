@@ -1,2 +1,2 @@
-# Sample-Repo
-Demo Repository
+## Sample-Repo
+- This is a Demo Repository
